@@ -1,0 +1,31 @@
+Album ; Artiste ; Genre
+Hardstone Psycho ; Don Toliver ;
+Starboy ; The Weeknd ;
+Heroes & Villains ; Metro Boomin ;
+Birds In The Trap Sing McKnight ; Travis Scott ;
+We Still Don't Trust You ; Future & Metro Boomin ;
+Hollywood's Bleeding ; Post Malone ;
+Finally Rich ; Chief Keef ;
+Currents ; Tame Impala ;
+Culture ; Migos ;
+Astroworld ; Travis Scott ;
+After Hours ; The Weeknd ;
+Austin ; Post Malone ;
+Watch The Throne ; Jay-Z & Kanye West ;
+Yeezus ; Kanye West ;
+Plastic Beach ; Gorillaz ;
+Damn ; Kendrick Lamar ;
+To Pimp A Butterfly ; Kendrick Lamar ;
+DS4EVER ; Gunna ;
+The Slow Rush ; Tame Impala ;
+Rodeo ; Travis Scott ;
+Heaven Or Hell ; Don Toliver ;
+My Beautiful Dark Twisted Fantasy ; Kanye West ;
+Graduation ; Kanye West ;
+We Don't Trust You ; Future & Metro Boomin ;
+Random Access Memories ; Daft Punk ;
+Igor ; Tyler, The Creator
+Beerbong & Bentleys ; Post Malone ;
+Cracker Island ; Gorillaz ;
+Utopia ; Travis Scott ;
+Dawn FM ; The Weeknd ;

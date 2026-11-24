@@ -1,0 +1,12 @@
+{
+	"parserOptions": {
+		"sourceType": "module",
+		"ecmaVersion": 2020
+	},
+	"extends": [
+		"plugin:@maxencebonamy/base"
+	],
+	"rules": {
+		"no-console": "off"
+	}
+}
